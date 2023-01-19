@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+}
+
+.block-container {
+    margin: 0;
+    height: 100px ;
+    width: 200px;
+    background-color: lightblue;
+  }
+
+  .inline-container {
+    height: 100px;
+    width: 200px;
+    background-color: lightgreen;
+  }
